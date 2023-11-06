@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(46, 46, 46);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.titulo-container{
+    position: relative;
+
+}
+
+.titulo-container h1{
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    padding-left: 155px;
+    padding-top: 150px;
+    color: aliceblue;
+    font-size: 60px;
+}
+
+.titulo-container img{
+    border-radius: 10%;
+    width: 1150px;
+    height: 450px;
+}
+
+.whoI{
+    border-radius: 10%;
+}
+
+.aboutI{
+    border-radius: 10%;
+}
+
+.learnI{
+    border-radius: 10%;
+}
